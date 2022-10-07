@@ -1,0 +1,26 @@
+{
+  "name": "es6_basic",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "learning es6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StivenB23/es6-basic.git"
+  },
+  "author": "Stive Ospina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StivenB23/es6-basic/issues"
+  },
+  "homepage": "https://github.com/StivenB23/es6-basic#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
